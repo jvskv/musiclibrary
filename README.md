@@ -1,2 +1,2 @@
 # musiclibrary
-Simple music library using react
+Ongoing simple music library project using React
